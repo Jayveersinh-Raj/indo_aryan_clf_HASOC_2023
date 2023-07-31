@@ -4,6 +4,7 @@ import numpy as np
 from sklearn.metrics import confusion_matrix
 import torch
 import time
+import pandas as pd
 
 def binary_infer(df: pd.DataFrame, column: str, model, tokenizer) -> None:
   """
