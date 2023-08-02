@@ -1,0 +1,9 @@
+---
+    # dataset path
+    dataset_path: "/content/encoded_labels_hindi_abusive_tweets.csv"
+
+    # checkpoints path
+    checkpoints_path: "Jayveersinh-Raj/PolyGuard"
+
+    # model save path
+    output_dir: "/content/train-hindi"
