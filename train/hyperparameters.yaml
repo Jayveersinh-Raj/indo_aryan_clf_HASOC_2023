@@ -1,0 +1,9 @@
+---
+    # label column
+    label_column: "encoded_labels"
+
+    # batch size
+    batch_size: 32
+
+    # epochs
+    epochs: 5
